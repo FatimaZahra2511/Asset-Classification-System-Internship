@@ -1,5 +1,10 @@
 #  Information Asset Classification Platform
 
+## Disclaimer
+This software is provided for educational and demonstration purposes.
+It does not replace a formal information security risk assessment and
+should not be used as the sole basis for regulatory or compliance decisions.
+
 This platform was developed during a 2-month internship at **IT6 Consulting S.A.R.L.**, a Rabat-based IT governance and cybersecurity firm.
 
 The goal was to digitize and secure the organization's information classification workflow in compliance with both international and national regulations, including:
@@ -123,4 +128,5 @@ npm install
 # 4. Start the server
 npm run dev
 ---
+
 
