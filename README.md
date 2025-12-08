@@ -1,4 +1,4 @@
-#  Secure Information Asset Classification Platform
+#  Information Asset Classification Platform
 
 This platform was developed during a 2-month internship at **IT6 Consulting S.A.R.L.**, a Rabat-based IT governance and cybersecurity firm.
 
