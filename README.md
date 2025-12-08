@@ -108,25 +108,16 @@ Built with **Next.js** and **Tailwind CSS**, the system supports granular classi
 | Risque Accepté        | Accepted Risk         | Risk the organization agrees to tolerate |
 | Sensibilité           | Sensitivity           | Composite score from DICT |
 
----
+
 
 ##  Contact
 
 Built by : [Fatima Zahra Zhiri](https://www.linkedin.com/in/fatima-zahra-zhiri-722046274/)  
-## Running the Project Locally
 
-```bash
-# 1. Clone the repo
-git clone https://github.com/yourusername/secure-info-classification.git
-
-# 2. Navigate into it
-cd secure-info-gov
-
-# 3. Install dependencies
-npm install
-
-# 4. Start the server
-npm run dev
 ---
+## License
+This project is licensed under the MIT License.
+
+
 
 
