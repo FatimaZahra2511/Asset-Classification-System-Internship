@@ -78,8 +78,8 @@ Built with **Next.js** and **Tailwind CSS**, the system supports granular classi
 | Charts | Recharts |
 | State | React Hooks, LocalStorage |
 | Backend | Next.js API routes |
-| Database | JSON-based in development (can be replaced with MongoDB/Prisma) |
-| Auth | Simple password prompt for protected actions |
+| Database | JSON-based in development |
+| Auth |  password prompt for protected actions |
 
 ---
 
